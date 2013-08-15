@@ -1,4 +1,12 @@
-Preklady_Zasuvnych_modulov
-==========================
+HitCount - Slovak language file
+===============================
 
-Preklady zásuvných modulov pre GetSimple CMS
+Preklad zásuvného modulu HitCount pre GetSimple CMS.
+
+Viac informácii o module:
+http://get-simple.info/extend/plugin/hitcount/91/
+alebo na stránke tvorcu:
+http://mvlcek.bplaced.net/get-simple/hitcount
+
+Viac informácii o GetSimple CMS nájdete na:
+http://get-simple.info/
